@@ -6,10 +6,10 @@ O backend foi contruído sem banco de dados externo. Por se tratar de um teste e
 
 ```bash
 # clone este repositorio
-git clone {nome do repositorio}
+git clone https://github.com/pedrohenjs/teste-hipersend.git
 
 # acesse o diretorio do backend
-cd nome-do-repositorio/backend
+cd teste-hipersend/backend
 
 # instale as dependencias do projeto
 npm i
@@ -18,7 +18,7 @@ npm i
 npm run dev
 
 # em outro terminal acesse o diretorio do frontend
-cd nome-do-repositorio/frontend
+cd teste-hipersend/frontend
 
 # instale as dependencias do projeto
 npm i
